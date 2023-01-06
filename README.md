@@ -2,7 +2,16 @@
 
 ## Installation and setup
 1. Download the binary, coresponding to your OS, from the [available builds](https://github.com/pronoooobster/weatherapp/tree/main/build)
-2. Run the binary 
+2. Ensure that the app could run as an executable
+    - On Linux/MacOS, you need to make the binary executable by running the following command in the terminal
+      ```
+      chmod +x weatherapp
+      ```
+      or, when running on x86 MacOS, run with
+      ```
+      chmod +x weatherapp-x86
+      ```
+3. Run the binary 
     - On Windows, open the command prompt and run with 
       ```
       weatherapp.exe
