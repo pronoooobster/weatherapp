@@ -9,11 +9,11 @@
       ```
     - On Linux/MacOS, open the terminal and run with 
       ```
-        ./weatherapp
+      ./weatherapp
       ```
       or, when running on x86 MacOS, run with
       ```
-        ./weatherapp-x86
+      ./weatherapp-x86
       ```
 
 ## Usage
