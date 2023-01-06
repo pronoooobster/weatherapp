@@ -1,7 +1,7 @@
 # Weather app using the OpenWeatherMap API
 
 ## Installation and setup
-1. Download the binary, coresponding to your OS, from the [available builds]()
+1. Download the binary, coresponding to your OS, from the [available builds](https://github.com/pronoooobster/weatherapp/tree/main/build)
 2. Run the binary 
     - On Windows, open the command prompt and run with 
       ```
